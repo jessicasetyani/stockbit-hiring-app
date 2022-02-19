@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="elevation_height">1dp</dimen>
+
+    <!--Padding-->
+    <dimen name="no_space">0dp</dimen>
+    <dimen name="app_padding_2">2dp</dimen>
+    <dimen name="app_padding_4">4dp</dimen>
+    <dimen name="app_padding_8">8dp</dimen>
+    <dimen name="app_padding_16">16dp</dimen>
+    <dimen name="app_padding_32">32dp</dimen>
+
+    <!--Font-->
+    <dimen name="button_text_12sp">12sp</dimen>
+    <dimen name="button_text_14sp">14sp</dimen>
+    <dimen name="button_text_16sp">16sp</dimen>
+</resources>

@@ -3,4 +3,17 @@
     <color name="colorPrimary">#414141</color>
     <color name="colorPrimaryDark">#3B3B3B</color>
     <color name="colorAccent">#69F0AE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_f3">#f3f3f3</color>
+    <color name="gray_50">#505050</color>
+    <color name="gray_d8">#D8D8D8</color>
+    <color name="gray_63">#636363</color>
+    <color name="gray_BBB">#BBBBBB</color>
+    <color name="green">#04AB6B</color>
+
+    <!-- watchlist color -->
+    <color name="last_price_change_negative">#C0402A</color>
+    <color name="last_price_change_positive">#1D9834</color>
+    <color name="last_price_change_neutral">#636363</color>
 </resources>

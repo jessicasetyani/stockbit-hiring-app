@@ -52,23 +52,32 @@ object Versions {
     val mockk = "1.11.0"
     val fragmentTest = "1.1.0-alpha06"
     val databinding = "3.3.2"
+    val eventBus = "3.3.1"
 }
 
 object Libraries {
     // KOIN
     val koin = "io.insert-koin:koin-android:${Versions.koin}"
     val koinViewModel = "io.insert-koin:koin-android-viewmodel:${Versions.koin}"
+    val koinScope = "io.insert-koin:koin-androidx-scope:${Versions.koin}"
+
     // ROOM
     val roomCompiler = "androidx.room:room-compiler:${Versions.room}"
     val roomRunTime = "androidx.room:room-runtime:${Versions.room}"
     val roomKtx = "androidx.room:room-ktx:${Versions.room}"
+
     // RETROFIT
     val gson = "com.google.code.gson:gson:${Versions.gson}"
     val retrofit = "com.squareup.retrofit2:retrofit:${Versions.retrofit}"
     val retrofitGsonConverter = "com.squareup.retrofit2:converter-gson:${Versions.retrofitGson}"
     val httpLoggingInterceptor = "com.squareup.okhttp3:logging-interceptor:${Versions.okHttp}"
+    val okHttp = "com.squareup.okhttp3:okhttp:${Versions.okHttp}"
+
     // GLIDE
     val glide = "com.github.bumptech.glide:glide:${Versions.glide}"
+
+    // EVENTBUS
+    val evenbus = "org.greenrobot:eventbus:${Versions.glide}"
 }
 
 object KotlinLibraries {
@@ -78,7 +87,9 @@ object KotlinLibraries {
 
 object AndroidLibraries {
     // KOTLIN
-    val kotlinCoroutineAndroid = "org.jetbrains.kotlinx:kotlinx-coroutines-android:${Versions.coroutines}"
+    val kotlinCoroutineAndroid =
+        "org.jetbrains.kotlinx:kotlinx-coroutines-android:${Versions.coroutines}"
+
     // ANDROID
     val appCompat = "androidx.appcompat:appcompat:${Versions.appCompat}"
     val coreKtx = "androidx.core:core-ktx:${Versions.coreKtx}"
@@ -98,15 +109,20 @@ object TestLibraries {
     val archCoreTest = "androidx.arch.core:core-testing:${Versions.archCoreTest}"
     val junit = "androidx.test.ext:junit:${Versions.androidJunit}"
     val fragmentNav = "androidx.fragment:fragment-testing:${Versions.fragmentTest}"
+
     // KOIN
     val koin = "io.insert-koin:koin-test:${Versions.koin}"
+
     // MOCK WEBSERVER
     val mockWebServer = "com.squareup.okhttp3:mockwebserver:${Versions.okHttp}"
+
     // MOCK
     val mockkAndroid = "io.mockk:mockk-android:${Versions.mockk}"
     val mockk = "io.mockk:mockk:${Versions.mockk}"
+
     // COROUTINE
     val coroutine = "org.jetbrains.kotlinx:kotlinx-coroutines-test:${Versions.coroutines}"
+
     // DATA BINDING
     val databinding = "androidx.databinding:databinding-compiler:${Versions.databinding}"
 }

@@ -1,5 +1,6 @@
- apply plugin: 'com.android.application'
+apply plugin: 'com.android.application'
 apply from: '../android_commons.gradle'
+apply plugin: 'kotlin-android'
 
 android {
     defaultConfig {
@@ -23,9 +24,12 @@ dependencies {
     // KOIN
     implementation Libraries.koin
     implementation Libraries.koinViewModel
+    implementation Libraries.koinScope
     // ANDROID
     implementation AndroidLibraries.constraintLayout
     implementation AndroidLibraries.appCompat
     implementation AndroidLibraries.navigation
     implementation AndroidLibraries.navigationFrag
+    //EVENT BUS
+    implementation Libraries.evenbus
 }

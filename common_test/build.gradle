@@ -8,6 +8,8 @@ dependencies {
     implementation TestLibraries.espresso
     implementation Libraries.koin
     implementation Libraries.koinViewModel
+    implementation Libraries.koinScope
     implementation AndroidLibraries.recyclerView
     implementation TestLibraries.coroutine
+    implementation Libraries.evenbus
 }
