@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.activity:activity:1.0.0-alpha04@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6f86ab93f5540b9f7846d9bf09e2e34d/jetified-activity-1.0.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3a87dc93aa43133fcf895c7e63f12831/jetified-activity-1.0.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c25643e73786e2c79c73908b7d159cf1/jetified-activity-1.0.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6e689aab682066742625a050a3b67d66/jetified-activity-1.0.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/535d9b9561de7dbcdb90e7c459f3ecb1/jetified-activity-1.0.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/55d3b31135f9ad3e4ab0a79387e78451/jetified-activity-1.0.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f9cf22e5db0789f2d6534385392a7c2e/jetified-activity-1.0.0-alpha04/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8f690969e38193f4d74647fdf851eac3/jetified-activity-1.0.0-alpha04/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8f690969e38193f4d74647fdf851eac3/jetified-activity-1.0.0-alpha04/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8f690969e38193f4d74647fdf851eac3/jetified-activity-1.0.0-alpha04/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d0fa41ecd582ef036f220dd59459d749/jetified-activity-1.0.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d0fa41ecd582ef036f220dd59459d749/jetified-activity-1.0.0-alpha04/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d0fa41ecd582ef036f220dd59459d749/jetified-activity-1.0.0-alpha04/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

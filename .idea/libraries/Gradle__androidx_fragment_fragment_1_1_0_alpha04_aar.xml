@@ -1,19 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.fragment:fragment:1.1.0-alpha04@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2c0028341c0b4ef2fc116f737cb65366/fragment-1.1.0-alpha04/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/be7fd7eb67bdbfcd32eaddcd6e316f36/fragment-1.1.0-alpha04/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1c12742ac6e911cd60264640f1ee753c/fragment-1.1.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5ed0eb76b0355ecddb6bbcb10cf4e778/fragment-1.1.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/b165be441e4fe9d850dfc737fe266e9a/fragment-1.1.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a3e3b0e5eb0792e183723af179ca73fd/fragment-1.1.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/df55afa9f3a322dc747bbc84db7cd94a/fragment-1.1.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/92ba3d55961a6604d4c4bf849e9c60da/fragment-1.1.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/81c4a2b65bce97c41ee4a68157580e36/fragment-1.1.0-alpha04/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2c0028341c0b4ef2fc116f737cb65366/fragment-1.1.0-alpha04/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2c0028341c0b4ef2fc116f737cb65366/fragment-1.1.0-alpha04/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2c0028341c0b4ef2fc116f737cb65366/fragment-1.1.0-alpha04/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/be7fd7eb67bdbfcd32eaddcd6e316f36/fragment-1.1.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/be7fd7eb67bdbfcd32eaddcd6e316f36/fragment-1.1.0-alpha04/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/be7fd7eb67bdbfcd32eaddcd6e316f36/fragment-1.1.0-alpha04/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

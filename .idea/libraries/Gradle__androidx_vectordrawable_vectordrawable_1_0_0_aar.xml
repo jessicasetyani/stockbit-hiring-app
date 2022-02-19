@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.vectordrawable:vectordrawable:1.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d101245e4d3b663c394f5b329e449998/vectordrawable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c4d518b759b787fe991517b3dd20ea0a/vectordrawable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7c6b557a55960201b3380653c5b21c0a/vectordrawable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/b2f2966a6d855527cfdfd07e32ca16b9/vectordrawable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/d68efe722946456545c54912384f584d/vectordrawable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9950873bddd4f35b302d4b83115769ff/vectordrawable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e2b59fea1988bc158bfcc50fef326918/vectordrawable-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/328f5bb3bff7bd8a45aa8a7434dd5caf/vectordrawable-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/328f5bb3bff7bd8a45aa8a7434dd5caf/vectordrawable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/328f5bb3bff7bd8a45aa8a7434dd5caf/vectordrawable-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7a157fef1e278573cbe0aec7b221376d/vectordrawable-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7a157fef1e278573cbe0aec7b221376d/vectordrawable-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7a157fef1e278573cbe0aec7b221376d/vectordrawable-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

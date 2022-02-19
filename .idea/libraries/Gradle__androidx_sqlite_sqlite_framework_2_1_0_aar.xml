@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.sqlite:sqlite-framework:2.1.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e814d89c45693276d03878cc952a5183/sqlite-framework-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ae6d5ea8d820e6a6a2821e5f06931a8c/sqlite-framework-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3a83c381b8ed59213183b9468a755ff4/sqlite-framework-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4b2d2d4effff1cfc1f3faed87c71b5f8/sqlite-framework-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/adb83f19162234430cb3373776b87d4d/sqlite-framework-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e95eea7f96d3b81dc790d8d0d74b496e/sqlite-framework-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c8d1900fba7d958afe3dca388f116fd4/sqlite-framework-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4ae7aaacfdcc4307eae07ff0ee90a5fb/sqlite-framework-2.1.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4ae7aaacfdcc4307eae07ff0ee90a5fb/sqlite-framework-2.1.0/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4ae7aaacfdcc4307eae07ff0ee90a5fb/sqlite-framework-2.1.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2850b6baaf39541e0c58597b4b878e94/sqlite-framework-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2850b6baaf39541e0c58597b4b878e94/sqlite-framework-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2850b6baaf39541e0c58597b4b878e94/sqlite-framework-2.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

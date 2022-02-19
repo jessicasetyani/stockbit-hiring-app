@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ba7bb2cc62ac9faeb0c6ffec5ec5b41b/lifecycle-runtime-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/717ad5e3bb879ae4db5cd8648fca1cb0/lifecycle-runtime-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1bc1039d64ba971b3bff4f1d2ec329f5/lifecycle-runtime-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/960bd05df97b925db882357f4723d3d2/lifecycle-runtime-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/419d0960740e20813e115f6a0bec2a4f/lifecycle-runtime-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/53543bb8d65e3d8cab1ab576bd4c6e85/lifecycle-runtime-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/179bb05b8913bb1d4cf3e9bf07ed9d4e/lifecycle-runtime-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e7ab5efe5bc6b1532e400f833407d94f/lifecycle-runtime-2.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e7ab5efe5bc6b1532e400f833407d94f/lifecycle-runtime-2.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e7ab5efe5bc6b1532e400f833407d94f/lifecycle-runtime-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7f32512884e25beedfb4524cf5516708/lifecycle-runtime-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7f32512884e25beedfb4524cf5516708/lifecycle-runtime-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7f32512884e25beedfb4524cf5516708/lifecycle-runtime-2.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

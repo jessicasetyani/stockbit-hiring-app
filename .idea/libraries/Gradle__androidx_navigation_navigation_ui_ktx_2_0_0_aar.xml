@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.navigation:navigation-ui-ktx:2.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/45b302b771c1fdae330a292600f1d984/navigation-ui-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/06627ef33830b39cada88bd9195374a4/navigation-ui-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e90839538e434cb2a794aaf50bf58562/navigation-ui-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/85f6304d1e867a1e8026b9517a395cd7/navigation-ui-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2b380af0173eb8cbf5c70a75d00bb0c2/navigation-ui-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/abc742b98526df064f146b6a86800857/navigation-ui-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/b5b0d097613db614c42ea125bf9a2b2a/navigation-ui-ktx-2.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/41603d17cb02f887added7ee245c2d92/navigation-ui-ktx-2.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/41603d17cb02f887added7ee245c2d92/navigation-ui-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/41603d17cb02f887added7ee245c2d92/navigation-ui-ktx-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/652a197290cb1204de55ca0db1fc90cb/navigation-ui-ktx-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/652a197290cb1204de55ca0db1fc90cb/navigation-ui-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/652a197290cb1204de55ca0db1fc90cb/navigation-ui-ktx-2.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

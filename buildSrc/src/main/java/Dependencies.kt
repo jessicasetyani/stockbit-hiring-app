@@ -52,7 +52,6 @@ object Versions {
     val mockk = "1.11.0"
     val fragmentTest = "1.1.0-alpha06"
     val databinding = "3.3.2"
-    val eventBus = "3.3.1"
 }
 
 object Libraries {
@@ -75,9 +74,6 @@ object Libraries {
 
     // GLIDE
     val glide = "com.github.bumptech.glide:glide:${Versions.glide}"
-
-    // EVENTBUS
-    val evenbus = "org.greenrobot:eventbus:${Versions.glide}"
 }
 
 object KotlinLibraries {

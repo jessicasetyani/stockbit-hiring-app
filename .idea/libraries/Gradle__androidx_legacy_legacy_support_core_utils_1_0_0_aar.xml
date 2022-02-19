@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9ff1a959ad41704959e91275f21acc4f/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a201106084a8674fec87715d7ced13f8/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5b597bbb4da4ccabbd567322dd2bf8db/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5b773062ba5d7608dd0d874081f12800/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/69befe146e07fa6b312ee9cd88ba2f37/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/09bf5d8fd86a8a58e08a6d87291db04e/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1352266c1ab11c9a60678ae6b0c93c7e/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1a23124d4de11b612be36d4d70ea6564/legacy-support-core-utils-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1a23124d4de11b612be36d4d70ea6564/legacy-support-core-utils-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1a23124d4de11b612be36d4d70ea6564/legacy-support-core-utils-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f89d643f34fe54d898139ca11f107441/legacy-support-core-utils-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f89d643f34fe54d898139ca11f107441/legacy-support-core-utils-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f89d643f34fe54d898139ca11f107441/legacy-support-core-utils-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

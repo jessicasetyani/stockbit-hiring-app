@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/10843d022a74b03c75171e566d8abe44/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/66524e559f133a62f1b258e26686f89e/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7c6a0f9b274982f54ce3425d523fe3cb/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/724a49a502a32f8085fcf2980e2d0f80/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0ea6f5e001dbbdf4a44b6cfa92c22ed8/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9c556c6ac464a6823937f5e0831b0ddf/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/29d0ee5801f9aaa254d7ecac325cf905/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e47e044321023e7d766586e1b4b0e875/versionedparcelable-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e47e044321023e7d766586e1b4b0e875/versionedparcelable-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e47e044321023e7d766586e1b4b0e875/versionedparcelable-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9f403857406d4137a3b818b2d817f99d/versionedparcelable-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9f403857406d4137a3b818b2d817f99d/versionedparcelable-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9f403857406d4137a3b818b2d817f99d/versionedparcelable-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

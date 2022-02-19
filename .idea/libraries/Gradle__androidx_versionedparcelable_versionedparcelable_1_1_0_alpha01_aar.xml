@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e4ee726d0a3940ff05655461ade41db9/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3f12a0117fad37fe537f17e4f1080aa9/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ec670aa4f1d3a335fbff4ad832e6c7e4/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/aa316dfa7b5e03f1f9fa0982e5a6441f/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a0d030cbbf66923e9f4128d3c5352bf7/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ed060369d516f590e24a85e378a69285/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1ed710fd80cb0d2f83abe0143dd7d7d9/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/31f3f2a4227461c50a5e05dc55198567/versionedparcelable-1.1.0-alpha01/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/31f3f2a4227461c50a5e05dc55198567/versionedparcelable-1.1.0-alpha01/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/31f3f2a4227461c50a5e05dc55198567/versionedparcelable-1.1.0-alpha01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dcd619f4ce4cb53cf01af0455d0b6a2a/versionedparcelable-1.1.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dcd619f4ce4cb53cf01af0455d0b6a2a/versionedparcelable-1.1.0-alpha01/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dcd619f4ce4cb53cf01af0455d0b6a2a/versionedparcelable-1.1.0-alpha01/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

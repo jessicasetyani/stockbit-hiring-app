@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/40324c7ca2352c086b70a36a3c4c4805/lifecycle-livedata-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/79af797a682d0c9132c77dbc62589ff1/lifecycle-livedata-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9baa8d95b675594a5f6b8f3171cd67cc/lifecycle-livedata-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/549c0b4fe5f90d5c22b04ed391c912a1/lifecycle-livedata-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e68cb6841ae56dfc2f75770e8aad818b/lifecycle-livedata-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1206658e81b70b8cc8c2d4263e98d9a4/lifecycle-livedata-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7dd4f7f1df4bef789dac6772923e28a7/lifecycle-livedata-2.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7580ead433495217f2c615dc9d4b2eb3/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7580ead433495217f2c615dc9d4b2eb3/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7580ead433495217f2c615dc9d4b2eb3/lifecycle-livedata-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8ab9bf3b7f0f264bb564504ba75b8d9e/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8ab9bf3b7f0f264bb564504ba75b8d9e/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/8ab9bf3b7f0f264bb564504ba75b8d9e/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

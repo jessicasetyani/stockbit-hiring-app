@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.navigation:navigation-fragment-ktx:2.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/18971fa9acf201913a7ae32cac37d2bf/navigation-fragment-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/365f96760b5ff6cd966458d502702ec5/navigation-fragment-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7d5d21264dd8669b37556f4aa9353a34/navigation-fragment-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/71d8440da799a58b9e21195ff870142e/navigation-fragment-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2956c8af66c19ae6bb77e0d1fc02eab5/navigation-fragment-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f4023937f36bc3f212b45333a30dccd1/navigation-fragment-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a58a696f7015ccdec301e5ef00806257/navigation-fragment-ktx-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a653c7201576f73a17d43b479ae96e3b/navigation-fragment-ktx-2.0.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a653c7201576f73a17d43b479ae96e3b/navigation-fragment-ktx-2.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a653c7201576f73a17d43b479ae96e3b/navigation-fragment-ktx-2.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3851c103d675ab23f21b2ea0ce801d67/navigation-fragment-ktx-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3851c103d675ab23f21b2ea0ce801d67/navigation-fragment-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/3851c103d675ab23f21b2ea0ce801d67/navigation-fragment-ktx-2.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

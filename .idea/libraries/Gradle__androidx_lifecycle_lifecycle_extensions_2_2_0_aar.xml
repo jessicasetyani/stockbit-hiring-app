@@ -1,16 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-extensions:2.2.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/264854cd8983eaa9703f0678d9bb91a6/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1532fc7498b2f2d8df3a61975ece0c7c/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e85dc69a6847a3981e3a433754afaa8b/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1a3740fbe0aec293bd3964792f99ecb4/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/cdae45f9f7ff1a9c7e7ad29be9134703/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ddc0f12448f2ef094806cec58ea284df/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/37be254f79d31efca8b1623910e36808/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5cd8d90c8e982b066031aa35e5d5f340/lifecycle-extensions-2.2.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5cd8d90c8e982b066031aa35e5d5f340/lifecycle-extensions-2.2.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/5cd8d90c8e982b066031aa35e5d5f340/lifecycle-extensions-2.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/573d350c0a069d6a992b63ef088a78b8/lifecycle-extensions-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/573d350c0a069d6a992b63ef088a78b8/lifecycle-extensions-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/573d350c0a069d6a992b63ef088a78b8/lifecycle-extensions-2.2.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

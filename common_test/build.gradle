@@ -11,5 +11,4 @@ dependencies {
     implementation Libraries.koinScope
     implementation AndroidLibraries.recyclerView
     implementation TestLibraries.coroutine
-    implementation Libraries.evenbus
 }
