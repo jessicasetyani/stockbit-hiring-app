@@ -1,5 +1,6 @@
 package com.stockbit.hiring.di
 
+import com.stockbit.hiring.feature.watchlistSymbol.module.watchlistSymbolModule
 import com.stockbit.local.di.localModule
 import com.stockbit.remote.di.createRemoteModule
 import com.stockbit.repository.di.repositoryModule
@@ -9,5 +10,6 @@ val appComponent = listOf(
     repositoryModule,
     localModule,
     //Feature Module
-    loginPageModule
+    loginPageModule,
+    watchlistSymbolModule
 )

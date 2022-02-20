@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="coinInfo"
+            type="com.stockbit.model.CoinInfo" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/list_item_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/coin_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/app_padding_16"
+            android:layout_marginTop="@dimen/app_padding_8"
+            android:text="@{coinInfo.name}"
+            android:textColor="@color/black"
+            android:textSize="@dimen/button_text_16sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="BCA" />
+
+        <TextView
+            android:id="@+id/coin_full_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/app_padding_16"
+            android:text="@{coinInfo.fullName}"
+            android:textColor="@color/gray_63"
+            android:textSize="@dimen/button_text_12sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/coin_name_text"
+            tools:text="Bank Central Asia Tbk." />
+
+        <TextView
+            android:id="@+id/symbol_last_price_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/app_padding_8"
+            android:layout_marginEnd="@dimen/app_padding_16"
+            android:text="7,925"
+            android:textColor="@color/black"
+            android:textSize="@dimen/button_text_16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/symbol_last_price_change_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/app_padding_16"
+            android:text="+25 (+0.32%)"
+            android:textColor="@color/green"
+            android:textSize="@dimen/button_text_12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/symbol_last_price_text" />
+
+        <View
+            android:id="@+id/item_symbol_separator"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/divider_height"
+            android:layout_marginTop="@dimen/app_padding_8"
+            android:background="@color/gray_f3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/coin_full_name_text" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

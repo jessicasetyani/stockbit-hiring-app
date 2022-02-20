@@ -9,6 +9,7 @@
     <string name="login_forgot_password_text">Lupa Password</string>
     <string name="login_help_text">Belum punya akun?</string>
     <string name="login_help_button_text">Daftar sekarang</string>
+    <string name="login_button_text">Login</string>
 
     <!--watchlist-->
     <string name="all_watchlist_text">All Watchlist</string>
