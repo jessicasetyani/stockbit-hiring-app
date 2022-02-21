@@ -8,4 +8,26 @@
         <item name="android:windowContentTransitions">true</item>
     </style>
 
+
+    <style name = "NoActionBar" parent = "@android:style/Theme.Holo.Light">
+        <item name = "android:windowActionBar">false</item>
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Base.Widget.AppCompat.Button" />
+
+    <style name="ButtonStyle.ButtonPrimary">
+        <item name="android:textColor">@drawable/selector_text_primary_button</item>
+        <item name="android:textSize">@dimen/button_text_12sp</item>
+        <item name="android:background">@drawable/button_primary_background</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+
+    <style name="ButtonStyle.ButtonSecondary">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/button_text_12sp</item>
+        <item name="android:background">@drawable/button_secondary_background</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+
 </resources>

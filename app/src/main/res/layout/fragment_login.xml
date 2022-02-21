@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.stockbit.hiring.feature.login.viewModel.LoginViewModel" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.main.MainFragment">
+
+        <FrameLayout
+            android:id="@+id/toolbar_container"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <include
+                android:id="@+id/toolbar_title"
+                layout="@layout/layout_toolbar_title" />
+        </FrameLayout>
+
+        <View
+            android:id="@+id/toolbar_separator"
+            android:layout_width="@dimen/no_space"
+            android:layout_height="@dimen/divider_height"
+            android:background="@color/gray_d8"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/toolbar_container" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/app_padding_16"
+            android:layout_marginEnd="@dimen/app_padding_16"
+            android:orientation="vertical"
+            app:layout_constraintTop_toBottomOf="@id/toolbar_container">
+
+            <include
+                android:id="@+id/social_media_button_container"
+                layout="@layout/social_media_button_section" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/app_padding_16"
+                android:layout_marginBottom="@dimen/app_padding_16">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/username_edit_text"
+                    android:layout_width="@dimen/no_space"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:color="@color/green"
+                    android:inputType="textEmailAddress"
+                    android:paddingBottom="@dimen/app_padding_16"
+                    android:scrollbarSize="25dp"
+                    app:boxBackgroundColor="@android:color/transparent"
+                    app:hintEnabled="false"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:ems="15"
+                        android:hint="@string/login_username_email_hint"
+                        android:inputType="text"
+                        android:maxLines="1"
+                        android:text="@={viewModel.username}"
+                        android:textSize="@dimen/button_text_14sp" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/password_edit_text"
+                    android:layout_width="@dimen/no_space"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:color="@color/green"
+                    android:scrollbarSize="25dp"
+                    app:boxBackgroundColor="@android:color/transparent"
+                    app:hintEnabled="false"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/username_edit_text"
+                    app:passwordToggleEnabled="true">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:ems="15"
+                        android:hint="@string/login_password_hint"
+                        android:inputType="textPassword"
+                        android:text="@={viewModel.passwordTxt}"
+                        android:textSize="@dimen/button_text_14sp" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:id="@+id/login_forgot_password_button"
+                    android:layout_width="@dimen/no_space"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/app_padding_8"
+                    android:text="@string/login_forgot_password_text"
+                    android:textColor="@color/green"
+                    android:textSize="@dimen/button_text_12sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/password_edit_text" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/button_primary"
+                    style="@style/ButtonStyle.ButtonPrimary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginTop="@dimen/app_padding_16"
+                    android:onClick="@{()->viewModel.onButtonPrimaryClicked()}"
+                    android:paddingStart="@dimen/app_padding_2"
+                    android:paddingEnd="@dimen/app_padding_2"
+                    android:text="@{viewModel.buttonPrimaryText}"
+                    android:textAllCaps="false"
+                    android:textSize="@dimen/button_text_16sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="@string/login_button_text" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/button_secondary"
+                    style="@style/ButtonStyle.ButtonSecondary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/app_padding_16"
+                    android:text="@{viewModel.buttonSecondText}"
+                    android:textAllCaps="false"
+                    android:textColor="@color/green"
+                    android:textSize="@dimen/button_text_14sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/button_primary"
+                    tools:text="@string/login_fingerprint_button_text" />
+
+                <TextView
+                    android:id="@+id/login_help_text"
+                    android:layout_width="@dimen/no_space"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/app_padding_32"
+                    android:gravity="end"
+                    android:text="@string/login_help_text"
+                    android:textSize="@dimen/button_text_12sp"
+                    app:layout_constraintEnd_toStartOf="@id/login_help_button_text"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/button_secondary" />
+
+                <TextView
+                    android:id="@+id/login_help_button_text"
+                    android:layout_width="@dimen/no_space"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/app_padding_2"
+                    android:layout_marginTop="@dimen/app_padding_32"
+                    android:text="@string/login_help_button_text"
+                    android:textColor="@color/green"
+                    android:textSize="@dimen/button_text_12sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@id/login_help_text"
+                    app:layout_constraintTop_toBottomOf="@id/button_secondary" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

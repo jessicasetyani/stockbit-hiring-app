@@ -10,6 +10,9 @@
     <string name="login_help_text">Belum punya akun?</string>
     <string name="login_help_button_text">Daftar sekarang</string>
     <string name="login_button_text">Login</string>
+    <string name="login_username_password_error">Username atau password salah</string>
+    <string name="login_username_password_empty_error">The user field is required</string>
+    <string name="login_fingerprint_button_text">login with fingerprint</string>
 
     <!--watchlist-->
     <string name="all_watchlist_text">All Watchlist</string>

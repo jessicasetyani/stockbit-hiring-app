@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/app_padding_32">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_google"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_round_gray"
+        android:drawableStart="@drawable/ic_google"
+        android:drawablePadding="@dimen/app_padding_8"
+        android:foreground="?attr/selectableItemBackground"
+        android:gravity="center"
+        android:paddingStart="@dimen/app_padding_16"
+        android:paddingEnd="@dimen/app_padding_16"
+        android:stateListAnimator="@null"
+        android:text="@string/login_btn_google"
+        android:textAllCaps="false"
+        android:textColor="@color/gray_50"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_facebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/app_padding_16"
+        android:background="@drawable/button_round_gray"
+        android:drawableStart="@drawable/ic_facebook"
+        android:drawablePadding="@dimen/app_padding_16"
+        android:foreground="?attr/selectableItemBackground"
+        android:gravity="center"
+        android:paddingStart="@dimen/app_padding_16"
+        android:paddingEnd="@dimen/app_padding_16"
+        android:stateListAnimator="@null"
+        android:text="@string/login_btn_facebook"
+        android:textAllCaps="false"
+        android:textColor="@color/gray_50"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button_google" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="@dimen/no_space"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/app_padding_32"
+        android:layout_marginBottom="@dimen/app_padding_32"
+        android:foregroundGravity="center_horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/button_facebook">
+
+        <View
+            android:id="@+id/begin_separator"
+            android:layout_width="@dimen/no_space"
+            android:layout_height="@dimen/divider_height"
+            android:background="@color/gray_f3"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/text_separator"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/text_separator"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/no_space"
+            android:layout_marginStart="@dimen/app_padding_16"
+            android:layout_marginEnd="@dimen/app_padding_16"
+            android:text="@string/atau_txt"
+            android:textAllCaps="false"
+            android:textColor="@color/gray_63"
+            app:layout_constraintEnd_toStartOf="@id/end_separator"
+            app:layout_constraintStart_toEndOf="@id/begin_separator"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/end_separator"
+            android:layout_width="@dimen/no_space"
+            android:layout_height="@dimen/divider_height"
+            android:background="@color/gray_f3"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/text_separator"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
